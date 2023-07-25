@@ -1,2 +1,8 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# STAT 201 : Statistical Inference for Data Science
+
+Contributors: 
+- SaiUbc
+- Pragszz
+- Dedoria
+- JasonJi831
+
